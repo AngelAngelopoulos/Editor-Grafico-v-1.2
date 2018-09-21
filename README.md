@@ -1,0 +1,1 @@
+# Editor-Grafico-v-1.2
