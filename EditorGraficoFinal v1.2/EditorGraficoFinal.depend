@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1537544835 source:x:\editorgraficofinal\editor.c
+	<stdlib.h>
+	<stdio.h>
+	<graphics.h>
+	<string.h>
+	"LIB01.h"
+	"EDITOR_BUTTON.h"
+	"EDITOR_WORDS.h"
+	"EDITOR_INTERFACE.h"
+
+1266115814 c:\program files (x86)\codeblocks-ep\sdk\winbgim\include\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1536347114 x:\editorgraficofinal\lib01.h
+
+1537544021 x:\editorgraficofinal\button.h
+
+1537550170 x:\editorgraficofinal\editor_words.h
+
+1537506164 x:\editorgraficofinal\editor_grid_gen.h
+
+1537550170 x:\editorgraficofinal\editor_interface.h
+
+1537550218 x:\editorgraficofinal\editor_button.h
+
